@@ -1,0 +1,88 @@
+body {
+	font-family: 'EB Garamond', serif;
+	font-size: 18px;
+	color: #49474A;
+}
+
+/*NAVBAR STYLES*/
+
+.navbar-default .navbar-brand{
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+    margin: 15px 0 15px 0;
+    color: #AFADB0;
+}
+
+.navbar{
+	min-height: 80px;
+	background-color: #49474A;
+	border-radius: 0;
+	border-color: #000000;
+	border-width: 0px 0px 2px 0px;
+}
+
+#collapsable-navbar{
+	font-size: 1.5em;
+	margin: 0px -15px;
+	border-top: 1px solid white;
+	background-color: #AFADB0;
+}
+
+#nav-list{
+	margin: 0px -15px;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #49474A;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav>hr {
+	width: 75%;
+	margin: 0px auto 0px auto;
+	border-top: 1px solid white;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #AFADB0;
+}
+
+.navbar-header button.navbar-toggle {
+  border-color: #AFADB0;
+  margin-top: 23px;
+  margin-bottom: 23px;
+}
+
+/*END NAVBAR STYLES*/
+
+/*MAIN BODY STYLES*/
+
+h1{
+	font-size: 2em;
+	margin-bottom: 25px;
+}
+
+section{
+	margin: 15px 0px 15px 0px;
+}
+
+.menu{
+	background-color: #AFADB0;
+	padding: 0px 5px 0px 5px;
+	border: 1px solid black;
+}
+
+.menu-title{
+	font-size: 1.5em;
+	margin-top: 10px;
+}
+
+.menu-description{
+	text-align: justify;
+}
+
+.link-to-top{
+	margin: 5px 0px 5px 0px;
+}
+
+/*END MAIN BODY STYLES*/
